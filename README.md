@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**arken4/arken4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Dennis! I'm an undergraduate student at Faculty of Computer Science, Universitas Indonesia. I love building projects, teach people, and contribute to open-source projects.
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on [Project Roar](https://github.com/project-roar) and **Unnamed static site generator**
+- 🌱 I’m currently learning Typescript, Deno 🦕, algorithms, web development with Django
+- ✍ I love writing my thoughts on my [Devlog](http://denniswd.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me around the Internet 🌏:
+- [LinkedIn](https://www.linkedin.com/in/denniswd/)
+- [Twitter](https://twitter.com/dawalangadi)
+- [Line Messenger](https://line.me/R/ti/p/dennisaw2000)
+- [Email](mailto:dennisaw2000@gmail.com)
+- [Academic Email](mailto:dennis.al@ui.ac.id)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=arken4&show_icons=true)
+
+---
+```⭐️ From [arken4](https://github.com/arken4)```
