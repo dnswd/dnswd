@@ -13,7 +13,7 @@ Reach me around the Internet 🌏:
 - [Email](mailto:dennisaw2000@gmail.com)
 - [Academic Email](mailto:dennis.al@ui.ac.id)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arken4&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true)
 
 ---
-```⭐️ From [arken4](https://github.com/arken4)```
+⭐️ From [`dnswd`](https://github.com/dnswd)
