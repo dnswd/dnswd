@@ -7,7 +7,7 @@ Hi, I'm Dennis! I'm an undergraduate student at Faculty of Computer Science, Uni
 - ✍ I love writing my thoughts on my [Devlog](http://denniswd.me/)
 
 Reach me around the Internet 🌏:
-- [LinkedIn](https://www.linkedin.com/in/denniswd/)
+- [LinkedIn](https://www.linkedin.com/in/dnswd/)
 - [Line Messenger](https://line.me/R/ti/p/dennisaw2000)
 - [Email](mailto:dennis.walangadi@gmail.com)
 - [Academic Email](mailto:dennis.al@ui.ac.id)
