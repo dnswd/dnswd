@@ -3,9 +3,8 @@
 Hi, I'm Dennis! I'm an undergraduate student at Faculty of Computer Science, Universitas Indonesia. I love building projects, teach people, and contribute to open-source projects. Checkout my other projects on [GitLab](https://gitlab.com/Artemis1872)  
 
 I'm currently:
-- 💼 Full Stack Software Engineer at [Viagoo](http://viagoo.co/)
 - 📚 Learning data engineering, computer networking, and cloud infrastructure.
-- 🏗 Building previosly halted side-projects (**one coming up very soon** ✨) 
+- 🏗 Building previously halted side-projects (**one coming up very soon** ✨) 
 
 #### Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
