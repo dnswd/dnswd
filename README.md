@@ -3,8 +3,16 @@
 Hi, I'm Dennis! I'm an undergraduate student at Faculty of Computer Science, Universitas Indonesia. I love building projects, teach people, and contribute to open-source projects. Checkout my other projects on [GitLab](https://gitlab.com/Artemis1872)  
 
 I'm currently:
-- 📚 Learning data engineering, computer networking, and cloud infrastructure.
-- 🏗 Building previously halted side-projects (**one coming up very soon** ✨) 
+- 📚 Learning cloud infrastructure, secure systems, and devOps.
+- 🏗 Building side projects
+- 🐐 Building Kambing
+- 👨‍💻 Teaching juniors
+- 💼 Looking for jobs, feel free to contact me!
+
+Reach me around the Internet 🌏:
+- [LinkedIn](https://www.linkedin.com/in/dnswd/)
+- [Line Messenger](https://line.me/R/ti/p/dennisaw2000)
+- [Email](mailto:dennis.walangadi@gmail.com) or [Academic Email](mailto:dennis.al@ui.ac.id)
 
 #### Languages  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -13,6 +21,7 @@ I'm currently:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 #### Frameworks  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -41,12 +50,10 @@ I'm currently:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Reach me around the Internet 🌏:
-- [LinkedIn](https://www.linkedin.com/in/dnswd/)
-- [Line Messenger](https://line.me/R/ti/p/dennisaw2000)
-- [Email](mailto:dennis.walangadi@gmail.com)
-- [Academic Email](mailto:dennis.al@ui.ac.id)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true&bg_color=-30,1A2980,26D0CE&title_color=ffa751&text_color=E4E5E6&icon_color=ffa751" alt="Github stats">  
+</p>
+  
 ---
 ⭐️ From [`dnswd`](https://github.com/dnswd) 
 <img src="https://gpvc.arturio.dev/dnswd" alt="profile views" align="right">  
