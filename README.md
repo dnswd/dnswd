@@ -52,6 +52,8 @@ Reach me around the Internet 🌏:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <p align="center">
+  <img src="https://www.codewars.com/users/dennisaw/badges/large" alt="Codewars stats">  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true&bg_color=-30,1A2980,26D0CE&title_color=ffa751&text_color=E4E5E6&icon_color=ffa751" alt="Github stats">  
 </p>
   
