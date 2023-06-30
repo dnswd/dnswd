@@ -5,8 +5,8 @@ Hi, I'm Dennis! I'm an undergraduate student at Faculty of Computer Science, Uni
 I'm currently:
 - 📚 Learning cloud infrastructure, secure systems, and devOps.
 - 🏗 Building side projects
-- 🐐 Building Kambing
-- 👨‍💻 Teaching juniors
+- 🐐 Building [Kambing](https://github.com/kambi-ng)
+- 👨‍💻 Mentoring juniors
 - 💼 Looking for jobs, feel free to contact me!
 
 Reach me around the Internet 🌏:
@@ -54,9 +54,10 @@ Reach me around the Internet 🌏:
 <p align="center">
   <img src="https://www.codewars.com/users/dennisaw/badges/large" alt="Codewars stats">  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true&bg_color=-30,1A2980,26D0CE&title_color=ffa751&text_color=E4E5E6&icon_color=ffa751" alt="Github stats">  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true&bg_color=-30,1A2980,26D0CE&title_color=ffa751&text_color=E4E5E6&icon_color=ffa751" alt="Github stats">   -->
 </p>
   
 ---
 ⭐️ From [`dnswd`](https://github.com/dnswd) 
-<img src="https://gpvc.arturio.dev/dnswd" alt="profile views" align="right">  
+<!-- <img src="https://gpvc.arturio.dev/dnswd" alt="profile views" align="right"> -->
+
