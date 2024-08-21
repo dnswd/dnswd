@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Dennis, a full-stack software engineer based in Jakarta, Indonesia 🇮🇩, with a bachelor's degree in Computer Science from the University of Indonesia. I have experience in software engineering, full-stack web development, database tuning, and network/system engineering. Along the way, I picked up skills from both university courses and personal projects. I’ve also taught students and led both technical and non-technical teams.
+I'm Dennis, a full-stack software engineer based in Jakarta, Indonesia 🇮🇩, with a bachelor's degree in Computer Science from the University of Indonesia. I have experience in software engineering, full-stack web development, database tuning, and network/system engineering. I’ve gained skills through university courses, personal projects, and hands-on experience. I also had experience in teaching students and leading both technical and non-technical teams.
 
 I'm currently:
-- 📚 Learning distributed system and financial systems
+- 📚 Learning distributed and financial systems
+- 💼 Working at [OY! Indonesia](https://github.com/oyindonesia) as a domain owner
+- 💻 Building [Mikrorad](https://github.com/mikrorad)
 - 🏗 Building side projects
 - 🐐 Managing community & mentoring juniors @ [Kambing](https://github.com/kambi-ng)
-- 🌐 Building [Mikrorad](https://github.com/mikrorad)
 - 💪 Have a challenge? Feel free to hit me up!
 
 Reach me around the Internet 🌏:
@@ -45,8 +46,4 @@ Reach me around the Internet 🌏:
 
 <p align="center">
   <img src="https://www.codewars.com/users/dennisaw/badges/large" alt="Codewars stats">  
-  <br>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=dnswd&show_icons=true&bg_color=-30,1A2980,26D0CE&title_color=ffa751&text_color=E4E5E6&icon_color=ffa751" alt="Github stats">   -->
 </p>
-  
-
